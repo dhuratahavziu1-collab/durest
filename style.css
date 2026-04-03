@@ -8,5 +8,13 @@
 }
 
 .text-orange {
-    
+    color: #f8a000;
+}
+
+body {
+    height: 200px;
+}
+
+.carousel-caption{
+  bottom: 50% !important;
 }
